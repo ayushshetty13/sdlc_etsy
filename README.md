@@ -15,7 +15,7 @@ How to Contribute
 
 Clone the Repository
 
-git clone https://github.com/your-username/Etsy-SDLC-Analysis.git
+git clone https://github.com/ayushshetty13
 cd Etsy-SDLC-Analysis
 
 Create a New Branch
